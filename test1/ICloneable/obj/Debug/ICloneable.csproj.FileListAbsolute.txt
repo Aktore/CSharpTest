@@ -1,6 +1,0 @@
-C:\Users\Aktore\documents\visual studio 2015\Projects\test1\ICloneable\bin\Debug\ICloneable.exe.config
-C:\Users\Aktore\documents\visual studio 2015\Projects\test1\ICloneable\bin\Debug\ICloneable.exe
-C:\Users\Aktore\documents\visual studio 2015\Projects\test1\ICloneable\bin\Debug\ICloneable.pdb
-C:\Users\Aktore\documents\visual studio 2015\Projects\test1\ICloneable\obj\Debug\ICloneable.csprojResolveAssemblyReference.cache
-C:\Users\Aktore\documents\visual studio 2015\Projects\test1\ICloneable\obj\Debug\ICloneable.exe
-C:\Users\Aktore\documents\visual studio 2015\Projects\test1\ICloneable\obj\Debug\ICloneable.pdb
