@@ -15,7 +15,7 @@ namespace test1
             intClient.Display();
 
             IAccount<double> doubleClient = new Client<double>();
-            doubleClient.SetSum(500.09);
+            doubleClient.SetSum(600.09);
             doubleClient.Display();
         }
     }
